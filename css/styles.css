@@ -1,0 +1,29 @@
+
+html,body{
+    min-height: 100%;
+    background: linear-gradient(-45deg, grey, lightblue); 
+    color: black;
+    font-size: 115%;
+    font-family:serif;
+    font-weight: bold;
+}
+.container{
+    width: 600px;
+    margin: 25px auto;
+    center;
+
+}
+
+textarea{
+
+    width: 600px;
+    height: 160px;
+    font-size: 80%;
+}
+
+input{
+    width: 600px;
+    height: 40px;
+    margin-bottom: 8px;
+    font-size: 80%;
+}
